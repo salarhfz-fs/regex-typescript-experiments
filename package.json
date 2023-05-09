@@ -1,0 +1,15 @@
+{
+  "name": "regex-typescript-experiments",
+  "version": "0.1.0",
+  "description": "Experiments on Regex with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
