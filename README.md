@@ -1,0 +1,1 @@
+# Regex experiments with TypeScript
